@@ -1,0 +1,60 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+ 
+}
+body{
+  background-color: rgb(1, 2, 8);
+}
+/* .dasbordPosition{
+  position: relative;
+  
+}
+.sidbarPosition{
+
+top: 0;
+
+position: static;
+z-index: 100;
+}
+.topbarPosition{
+position: absolute;
+top: 0;
+right: 0;
+
+}
+.statsgridPosition{
+  
+  position: absolute;
+    top: 7rem;
+    left: 19rem;
+        
+}
+
+
+.CallTrendsChart{
+          position: absolute;
+    left: 19rem;
+    top: 27rem;
+    width: 78%;
+}
+.recentActivity{
+      position: absolute;
+    display: flex;
+    top: 54rem;
+    
+    align-items: end;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+    margin-left: 17rem;
+    padding: 2rem;
+}
+
+.calllogsStyle{
+  width: 78%;
+    position: absolute;
+    left: 18rem;
+    top: 8rem;
+} */

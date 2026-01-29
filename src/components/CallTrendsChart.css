@@ -1,0 +1,51 @@
+.chart-card {
+  background-color: rgba(15, 23, 43, 0.5);
+  border: 1px solid rgba(43, 127, 255, 0.2);
+  border-radius: 16px;
+  padding: 24px;
+}
+
+/* Title */
+.chart-title {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 4px;
+}
+
+.chart-subtitle {
+  color: #90a1b9;
+  font-size: 14px;
+  margin: 0;
+}
+
+/* Select */
+.chart-select-wrapper {
+  position: relative;
+}
+
+.chart-select {
+  background-color: #1d293d;
+  border: 1px solid rgba(43, 127, 255, 0.2);
+  color: #ffffff;
+  padding: 8px 40px 8px 16px;
+  border-radius: 8px;
+  font-size: 16px;
+  appearance: none;
+  cursor: pointer;
+}
+
+.chart-select:focus {
+  outline: none;
+  border-color: rgba(43, 127, 255, 0.5);
+}
+
+.select-arrow {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #ffffff;
+  font-size: 12px;
+  pointer-events: none;
+}
