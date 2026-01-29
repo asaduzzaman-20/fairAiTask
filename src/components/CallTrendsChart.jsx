@@ -7,7 +7,7 @@ import {
   Tooltip,
   ResponsiveContainer,
 } from "recharts";
-import "./callTrendsChart.css";
+import "./CallTrendsChart.css";
 
 const data = [
   { day: "Mon", calls: 50 },
